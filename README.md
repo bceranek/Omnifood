@@ -48,7 +48,7 @@ This project is a responsive, mobile-first landing page for a fictional AI-based
 
 ## 📷 Screenshots
 
-*Add screenshots or screen recordings here if needed (e.g. using `/screenshots` folder).*
+_Add screenshots or screen recordings here if needed (e.g. using `/screenshots` folder)._
 
 ---
 
@@ -66,6 +66,7 @@ This project is a responsive, mobile-first landing page for a fictional AI-based
 **Bartosz Ceranek**  
 📧 bartosz.ceranek@gmail.com  
 🔗 [GitHub Profile](https://github.com/bceranek)
+📎 [🔗 Live preview here](https://bceranek.github.io/Omnifood/)
 
 ---
 
